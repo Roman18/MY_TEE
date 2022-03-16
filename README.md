@@ -5,4 +5,4 @@ Just a simple copy of tee on Linux
 
 make
 
-./my_tee <pathname>
+./my_tee "pathname"
